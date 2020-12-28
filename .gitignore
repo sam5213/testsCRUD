@@ -1,0 +1,17 @@
+# Byte-compiled
+*.py[cod]
+
+# Pytest
+__pycache__/
+.pytest_cache
+
+# Unittest
+.cache
+
+.idea
+.pycharm
+.python-version
+
+jsonserver/node_modules/*
+jsonserver/package.json
+jsonserver/package-lock.json
